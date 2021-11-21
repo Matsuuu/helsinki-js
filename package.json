@@ -1,0 +1,20 @@
+{
+  "name": "helsinki",
+  "version": "1.0.0",
+  "description": "Javascript, but with types!",
+  "main": "index.js",
+  "scripts": {
+    "types": "tsc --project jsconfig.build.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matsuuu/helsinki-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matsuuu/helsinki-js/issues"
+  },
+  "homepage": "https://github.com/Matsuuu/helsinki-js#readme"
+}
