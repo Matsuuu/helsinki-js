@@ -2,7 +2,7 @@
 
 <!-- - ### Who's working with TypeScript? 🙋🙋‍♀️ -->
 
-<!-- - ### Who wishes they could be working with TypeScript? -->
+<!-- - ### Who wishes they could be working with TypeScript? 🙇🏻 -->
 
 <!-- What if... We could?* -->
 
